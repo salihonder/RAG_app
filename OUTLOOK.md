@@ -157,5 +157,3 @@ Microsoft Outlook is the world’s most widely used email and personal informati
 | Too many/large PST files    | Use Online Archive or move old items to archive                     |
 
 You now have the ultimate Outlook knowledge base for 2025!
-
-Save this file as `Outlook_Wiki_2025.md` — perfect for personal wikis, Obsidian, Notion, or team knowledge bases.
